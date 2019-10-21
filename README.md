@@ -10,3 +10,7 @@ Ejercicios usando la libreria math en Java
 | Math.floor(double) | Retorna el valor pasado como argumento redondeado |
 | Math.decrementExact(int) | Le resta el numero pasado en el argumento |
 | Math.exp(int) | Eleva el numero pasado como argumento a la potencia de euler |
+
+Codigo fuente
+-
+[Aqui](https://github.com/UrielMendozaG/Math/blob/master/src/com/mathclass/com/Matematicas.java)
